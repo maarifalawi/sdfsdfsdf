@@ -1,0 +1,18 @@
+{
+  "state": "completed",
+  "progress": 100,
+  "log": "Training selesai.",
+  "details": {
+    "accuracy": 0.9130434989929199,
+    "loss": 0.39142659306526184,
+    "epochs_trained": 10,
+    "classes": [
+      "BINTIK TUJUH",
+      "BUNGO MELATI",
+      "JUPRI KEMBANG TEH",
+      "MOTIF SONGKET PALEMBANG",
+      "PUCUK REBUNG"
+    ],
+    "timestamp": "1780038368.3854225"
+  }
+}

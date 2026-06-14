@@ -1,0 +1,104 @@
+[
+  {
+    "id": "5b9c6797-9951-4db1-b98e-50b456613a7d",
+    "image_url": "http://localhost:5000/uploads/1778296149993-79d25141-1bb8-406f-b983-e7c7b539faf8.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.013Z"
+  },
+  {
+    "id": "563a19dc-d2d6-4922-936f-a7c6819d6d75",
+    "image_url": "http://localhost:5000/uploads/1778296149999-3679d92a-00e2-47de-9351-a0893cd4649f.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.017Z"
+  },
+  {
+    "id": "cb782a4c-3721-438d-8ac2-764f8a2d35d8",
+    "image_url": "http://localhost:5000/uploads/1778296149999-0c6c97f4-93f8-4ace-a712-357e95c44f37.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.019Z"
+  },
+  {
+    "id": "2b5e2961-24f4-4579-8bc5-551c08cddeb9",
+    "image_url": "http://localhost:5000/uploads/1778296150001-62e2ccfb-a239-4cfa-bf53-ecdbb341a2f2.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.021Z"
+  },
+  {
+    "id": "092e6f2d-42c9-415c-a6a1-6c2bc80e499a",
+    "image_url": "http://localhost:5000/uploads/1778296150001-e9d9df6d-c102-431f-847e-20853d8c8984.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.022Z"
+  },
+  {
+    "id": "a99db7cf-b305-4ba1-93fd-d73be9eb45fc",
+    "image_url": "http://localhost:5000/uploads/1778296150007-809fc8d5-8c1e-4152-848d-05de011348d8.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.025Z"
+  },
+  {
+    "id": "a8fe0730-ed52-4e2f-b900-a04bd8f1da3b",
+    "image_url": "http://localhost:5000/uploads/1778296150008-9b11435c-b728-4bd0-ab7c-d551e51c243f.jpg",
+    "label": "Sumatra Barat",
+    "created_at": "2026-05-09T03:09:10.027Z"
+  },
+  {
+    "id": "58c987aa-f9b6-4080-ad61-12228d826daa",
+    "image_url": "http://localhost:5000/uploads/1778280173929-c6be9779-3a4c-4320-bcb1-14d0a11e3c4d.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.952Z"
+  },
+  {
+    "id": "24eed8ee-e74e-4de4-970f-4accbd043c2a",
+    "image_url": "http://localhost:5000/uploads/1778280173936-97806af2-f212-49b8-a04d-ddccbec397b5.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.955Z"
+  },
+  {
+    "id": "19201b27-58fa-45e5-a0b2-784b7405eaf7",
+    "image_url": "http://localhost:5000/uploads/1778280173938-02e2d7fb-89b8-4708-b588-e97cc8d77d6e.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.956Z"
+  },
+  {
+    "id": "94e4b13f-860b-41dc-b7f0-99a4ccb2dfd4",
+    "image_url": "http://localhost:5000/uploads/1778280173939-e1246f78-7ef8-4938-87a7-48d027c408df.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.957Z"
+  },
+  {
+    "id": "4eebb731-2170-46b0-9139-a8efe093ffbf",
+    "image_url": "http://localhost:5000/uploads/1778280173940-15df2915-7a2a-4b3b-8962-028868e6edf1.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.958Z"
+  },
+  {
+    "id": "8af7fd03-f9a7-45d6-b413-ca97c3f7c557",
+    "image_url": "http://localhost:5000/uploads/1778280173942-064eaf37-47dd-4848-83d9-acb8998f8380.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.959Z"
+  },
+  {
+    "id": "3e7d63ae-ac18-461c-9d65-4ecedd6bbcb3",
+    "image_url": "http://localhost:5000/uploads/1778280173942-971e06c0-5fc1-426e-b7d8-4a429a5e8054.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.960Z"
+  },
+  {
+    "id": "079dd963-a08f-4060-96e5-90e78fc72905",
+    "image_url": "http://localhost:5000/uploads/1778280173946-fe2f5714-d8ff-4bbe-8620-9d1157b04e84.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.961Z"
+  },
+  {
+    "id": "592228fb-74a0-46ba-a3c8-6d85b7c6272d",
+    "image_url": "http://localhost:5000/uploads/1778280173946-64e97aeb-0d3c-44ee-aa96-c325363299cc.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.962Z"
+  },
+  {
+    "id": "513d9130-b30f-4cb6-870a-eb3c7078c589",
+    "image_url": "http://localhost:5000/uploads/1778280173947-9c2ddf30-b277-4453-af15-72bc3e4ea279.jpg",
+    "label": "Yogya",
+    "created_at": "2026-05-08T22:42:53.963Z"
+  }
+]

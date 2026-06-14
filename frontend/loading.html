@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Batik Sumsel - Loading</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+      html, body {
+        width: 100%;
+        height: 100%;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        background: linear-gradient(to bottom, #f0f4f8, #ffffff);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: max(1rem, env(safe-area-inset-top));
+      }
+      
+      .container {
+        text-align: center;
+        max-width: 300px;
+      }
+      
+      .spinner {
+        width: 60px;
+        height: 60px;
+        margin: 0 auto 2rem;
+        border: 4px solid rgba(30, 41, 59, 0.1);
+        border-radius: 50%;
+        border-top-color: #1e293b;
+        animation: spin 1s linear infinite;
+      }
+      
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+      
+      h1 {
+        font-size: clamp(1.5rem, 4vw, 2rem);
+        color: #1e293b;
+        margin-bottom: 0.5rem;
+      }
+      
+      p {
+        font-size: clamp(0.875rem, 2vw, 1rem);
+        color: #64748b;
+      }
+      
+      /* Reduce motion */
+      @media (prefers-reduced-motion: reduce) {
+        .spinner {
+          animation: none;
+          border-top-color: #94a3b8;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="spinner"></div>
+      <h1>Batik Sumsel</h1>
+      <p>Memuat aplikasi...</p>
+      <p style="font-size: clamp(0.75rem, 1.5vw, 0.875rem); color: #94a3b8; margin-top: 1rem;">
+        Memastikan semuanya siap untuk klasifikasi batik Anda
+      </p>
+    </div>
+  </body>
+</html>

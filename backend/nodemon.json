@@ -1,0 +1,4 @@
+{
+  "ignore": ["backend_datasets.json"],
+  "ext": "js,json,mjs,cjs,ts,jsx,tsx"
+}

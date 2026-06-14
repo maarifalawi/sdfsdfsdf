@@ -1,0 +1,55 @@
+{
+  "name": "Batik Sumsel - Klasifikasi Batik Sumatera Selatan",
+  "short_name": "Batik Sumsel",
+  "description": "Aplikasi klasifikasi batik Sumatera Selatan menggunakan teknologi AI",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#1e293b",
+  "categories": ["productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "/src/assets/Blue Playful Handwriting Creative Studio Logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/src/assets/Blue Playful Handwriting Creative Studio Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/src/assets/Blue Playful Handwriting Creative Studio Logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/Blue Playful Handwriting Creative Studio Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Upload Gambar",
+      "short_name": "Upload",
+      "description": "Upload gambar batik untuk diklasifikasikan",
+      "url": "/?action=upload",
+      "icons": [
+        {
+          "src": "/src/assets/Blue Playful Handwriting Creative Studio Logo.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
+}

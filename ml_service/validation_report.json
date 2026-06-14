@@ -1,0 +1,74 @@
+{
+  "samples": 4,
+  "labels": [
+    "Batik Papua",
+    "Batik Solo",
+    "Batik Sumatra Utara",
+    "Batik Yogyakarta"
+  ],
+  "report": {
+    "Batik Papua": {
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1-score": 0.5,
+      "support": 1.0
+    },
+    "Batik Solo": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "Batik Sumatra Utara": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "Batik Yogyakarta": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "accuracy": 0.25,
+    "macro avg": {
+      "precision": 0.08333333333333333,
+      "recall": 0.25,
+      "f1-score": 0.125,
+      "support": 4.0
+    },
+    "weighted avg": {
+      "precision": 0.08333333333333333,
+      "recall": 0.25,
+      "f1-score": 0.125,
+      "support": 4.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0
+    ]
+  ]
+}
